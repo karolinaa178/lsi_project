@@ -1,0 +1,7 @@
+.buttons-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 200px;
+  margin: 2vh 0 2vh 7vw;
+}
